@@ -18,6 +18,7 @@
     "typeface-stoke": "^1.1.13"
   },
   "scripts": {
+    "dev": "vite",
     "start": "vite",
     "build": "vite build",
     "serve": "vite preview",
